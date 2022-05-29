@@ -4,7 +4,7 @@ class SimpleSlider {
     }
 
     setCurrent() {
-    
+        
     }
 
     next() {
@@ -12,6 +12,8 @@ class SimpleSlider {
     }
 
     prev() {
-
+        
     }
 }
+
+export default SimpleSlider
